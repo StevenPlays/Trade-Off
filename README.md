@@ -1,6 +1,6 @@
 ### Timeline for Time Bureau:
 
-[[Redemption]]
+[Redemption](/Stories/Redemption.md)
 
 [[Redemption 2 - Dominoes]]
 
