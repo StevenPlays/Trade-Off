@@ -2,7 +2,8 @@
 
 [Redemption](/Stories/Redemption.md)
 
-[[Redemption 2 - Dominoes]]
+[Redemption 2 - Dominoes](/Stories/Redemption 2 - Dominoes.md)
+
 
 [[Injustice]]
 
