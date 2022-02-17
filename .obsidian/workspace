@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -90,9 +90,9 @@
   "active": "673d9bb3f0af67c2",
   "lastOpenFiles": [
     "README.md",
+    "Stories/Redemption3.md",
+    "Stories/Redemption2.md",
     "Stories/Redemption.md",
-    "Stories/Redemption 2 - Dominoes.md",
-    "Stories/Redemption 3.md",
     "Stories/Injustice.md",
     "Stories/Trade-Off.md"
   ]

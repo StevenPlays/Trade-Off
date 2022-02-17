@@ -2,13 +2,12 @@
 
 [Redemption](/Stories/Redemption.md)
 
-[Redemption 2 - Dominoes](/Stories/Redemption 2 - Dominoes.md)
-
+[Redemption 2 - Dominoes](/Stories/Redemption2.md)
 
 [[Injustice]]
 
 [[Trade-Off]]
 
-[[Redemption 3]]
+[[Redemption3]]
 
 
