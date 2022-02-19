@@ -2,7 +2,7 @@
 
 [Redemption](/Stories/Redemption.md)
 
-[Redemption 2 - Dominoes](/Stories/Redemption2.md)
+[Redemption 2 - Dominoes](Redemption%202.md)
 
 [Injustice](/Stories/Injustice.md)
 
@@ -12,4 +12,8 @@
 
 ![[Redemption]]
 
-![[Redemption2]]
+![[Redemption 2]]
+
+![[Injustice]]
+
+![[Trade-Off]]

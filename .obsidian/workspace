@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stories/Redemption2.md",
-            "mode": "source",
+            "file": "README.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stories/Redemption2.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,9 @@
   },
   "active": "673d9bb3f0af67c2",
   "lastOpenFiles": [
-    "Stories/Redemption2.md",
     "README.md",
+    "Smaller Notes for Stories/Time Agent.md",
+    "Stories/Redemption 2.md",
     "Stories/Injustice.md",
     "Untitled.md",
     "Stories/Redemption.md",
