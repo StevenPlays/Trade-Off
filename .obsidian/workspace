@@ -7,8 +7,12 @@
         "id": "673d9bb3f0af67c2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Stories/Redemption2.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stories/Redemption2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,12 +89,12 @@
   },
   "active": "673d9bb3f0af67c2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Stories/Redemption.md",
+    "Stories/Redemption2.md",
     "README.md",
     "Stories/Injustice.md",
+    "Untitled.md",
+    "Stories/Redemption.md",
     "Stories/Trade-Off.md",
-    "Stories/Redemption3.md",
-    "Stories/Redemption2.md"
+    "Stories/Redemption3.md"
   ]
 }

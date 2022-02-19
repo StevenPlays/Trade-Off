@@ -10,5 +10,6 @@
 
 [Redemption 3](/Stories/Redemption3)
 
+![[Redemption]]
 
-
+![[Redemption2]]
